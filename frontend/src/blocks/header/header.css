@@ -1,0 +1,13 @@
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.header::after {
+  content: '';
+  display: block;
+  border-bottom: 1px solid #545454;
+  opacity: .7;
+}
