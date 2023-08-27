@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a6ea86e-4bca-4c6d-af58-4584eeb89d99" name="Changes" comment="фикс">
+      <change beforePath="$PROJECT_DIR$/backend/middlewares/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/middlewares/auth.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2UW9qrJft5Kq9RmD4tEZEnM9Cl2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/kirillpersin/WebstormProjects/react-mesto-api-full-gha/frontend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend" />
+      <recent name="$PROJECT_DIR$/backend" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a6ea86e-4bca-4c6d-af58-4584eeb89d99" name="Changes" comment="" />
+      <created>1693044662244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693044662244</updated>
+      <workItem from="1693044664921" duration="102000" />
+      <workItem from="1693044793598" duration="12124000" />
+    </task>
+    <task id="LOCAL-00001" summary="первый коммит, склеил бэк и фронт, проверил, что все локально работает">
+      <option name="closed" value="true" />
+      <created>1693054196488</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693054196488</updated>
+    </task>
+    <task id="LOCAL-00002" summary="проверка, удалится ли папка .idea из репозитория">
+      <option name="closed" value="true" />
+      <created>1693054588351</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693054588351</updated>
+    </task>
+    <task id="LOCAL-00003" summary="фикс">
+      <option name="closed" value="true" />
+      <created>1693054630970</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693054630970</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/backend/node_modules/sift/src/core.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/sift/src/index.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/sift/src/utils.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/sift/src/core.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/sift/src/index.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/sift/src/utils.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/sift/src/core.js.map" />
+        <option value="$PROJECT_DIR$/backend/node_modules/sift/src/index.js.map" />
+        <option value="$PROJECT_DIR$/backend/node_modules/sift/src/utils.js.map" />
+        <option value="$PROJECT_DIR$/backend/node_modules/sift/src/operations.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/sift/src/operations.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/sift/src/operations.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="первый коммит, склеил бэк и фронт, проверил, что все локально работает" />
+    <MESSAGE value="проверка, удалится ли папка .idea из репозитория" />
+    <MESSAGE value="фикс" />
+    <option name="LAST_COMMIT_MESSAGE" value="фикс" />
+  </component>
+</project>
