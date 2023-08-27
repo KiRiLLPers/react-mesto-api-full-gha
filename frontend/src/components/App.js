@@ -39,7 +39,7 @@ function App() {
   const navigate = useNavigate();
 
   useEffect(() => {
-    console.log("сборка новая");
+    console.log("сборка новая2");
     handleTokenCheck();
     if (loggedIn) {
       Promise.all([api.getInitialCards(token), api.getUserInfo(token)])

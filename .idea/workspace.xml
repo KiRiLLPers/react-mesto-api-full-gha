@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a6ea86e-4bca-4c6d-af58-4584eeb89d99" name="Changes" comment="проверка билда и запросы без авторизации">
+    <list default="true" id="5a6ea86e-4bca-4c6d-af58-4584eeb89d99" name="Changes" comment="проверка новой сборки">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/controllers/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/controllers/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693044662244</updated>
       <workItem from="1693044664921" duration="102000" />
-      <workItem from="1693044793598" duration="22003000" />
+      <workItem from="1693044793598" duration="25350000" />
     </task>
     <task id="LOCAL-00001" summary="первый коммит, склеил бэк и фронт, проверил, что все локально работает">
       <option name="closed" value="true" />
@@ -160,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693132811061</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="проверка новой сборки">
+      <option name="closed" value="true" />
+      <created>1693133063391</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1693133063391</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +205,7 @@
     <MESSAGE value="замена на http" />
     <MESSAGE value="замена на https" />
     <MESSAGE value="проверка билда и запросы без авторизации" />
-    <option name="LAST_COMMIT_MESSAGE" value="проверка билда и запросы без авторизации" />
+    <MESSAGE value="проверка новой сборки" />
+    <option name="LAST_COMMIT_MESSAGE" value="проверка новой сборки" />
   </component>
 </project>
