@@ -85,7 +85,7 @@ app.post(
   createUser,
 );
 
-// app.use(auth);
+app.use(auth);
 
 app.use(router);
 app.use('*', (req, res) => {

@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a6ea86e-4bca-4c6d-af58-4584eeb89d99" name="Changes" comment="замена на https">
+    <list default="true" id="5a6ea86e-4bca-4c6d-af58-4584eeb89d99" name="Changes" comment="проверка билда и запросы без авторизации">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693044662244</updated>
       <workItem from="1693044664921" duration="102000" />
-      <workItem from="1693044793598" duration="21062000" />
+      <workItem from="1693044793598" duration="22003000" />
     </task>
     <task id="LOCAL-00001" summary="первый коммит, склеил бэк и фронт, проверил, что все локально работает">
       <option name="closed" value="true" />
@@ -151,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693128429307</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="проверка билда и запросы без авторизации">
+      <option name="closed" value="true" />
+      <created>1693132811061</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1693132811061</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +195,7 @@
     <MESSAGE value="проверка поддомена" />
     <MESSAGE value="замена на http" />
     <MESSAGE value="замена на https" />
-    <option name="LAST_COMMIT_MESSAGE" value="замена на https" />
+    <MESSAGE value="проверка билда и запросы без авторизации" />
+    <option name="LAST_COMMIT_MESSAGE" value="проверка билда и запросы без авторизации" />
   </component>
 </project>
