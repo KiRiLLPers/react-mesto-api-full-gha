@@ -101,5 +101,5 @@ class Api {
 }
 
 export const api = new Api({
-  baseUrl: "https://pershinkirillvm.nomoredomainsicu.ru",
+  baseUrl: "https://api.pershinkirillvm.nomoredomainsicu.ru",
 });
