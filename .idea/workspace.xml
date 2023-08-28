@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a6ea86e-4bca-4c6d-af58-4584eeb89d99" name="Changes" comment="еще раз изменил ip бд">
+    <list default="true" id="5a6ea86e-4bca-4c6d-af58-4584eeb89d99" name="Changes" comment="вернул ip бд, убедился какаой должен быть">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app.js" afterDir="false" />
     </list>
@@ -55,7 +55,7 @@
       <updated>1693044662244</updated>
       <workItem from="1693044664921" duration="102000" />
       <workItem from="1693044793598" duration="29548000" />
-      <workItem from="1693199411698" duration="1961000" />
+      <workItem from="1693199411698" duration="2736000" />
     </task>
     <task id="LOCAL-00001" summary="первый коммит, склеил бэк и фронт, проверил, что все локально работает">
       <option name="closed" value="true" />
@@ -209,7 +209,23 @@
       <option name="project" value="LOCAL" />
       <updated>1693201270000</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="еще раз изменил ip бд">
+      <option name="closed" value="true" />
+      <created>1693201410083</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1693201410083</updated>
+    </task>
+    <task id="LOCAL-00021" summary="вернул ip бд, убедился какаой должен быть">
+      <option name="closed" value="true" />
+      <created>1693201562265</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1693201562265</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,6 +267,7 @@
     <MESSAGE value="убрал лимиттер" />
     <MESSAGE value="вернул ip бд" />
     <MESSAGE value="еще раз изменил ip бд" />
-    <option name="LAST_COMMIT_MESSAGE" value="еще раз изменил ip бд" />
+    <MESSAGE value="вернул ip бд, убедился какаой должен быть" />
+    <option name="LAST_COMMIT_MESSAGE" value="вернул ip бд, убедился какаой должен быть" />
   </component>
 </project>
