@@ -21,7 +21,7 @@ const handleError = require('./errors/handleError');
 
 const { requestLogger, errorLogger } = require('./middlewares/logger');
 
-const { PORT = 3000, MONGODB_URL = 'mongodb://localhost:127.0.0.1/mestodb' } = process.env;
+const { PORT = 3000, MONGODB_URL = 'mongodb://localhost:27017/mestodb' } = process.env;
 const app = express();
 
 app.use(cors());
