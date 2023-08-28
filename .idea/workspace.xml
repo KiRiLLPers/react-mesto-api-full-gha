@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a6ea86e-4bca-4c6d-af58-4584eeb89d99" name="Changes" comment="добавил дефолтное значение секретному ключу">
+    <list default="true" id="5a6ea86e-4bca-4c6d-af58-4584eeb89d99" name="Changes" comment="изменил импорт соли и ключа">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/consts/consts.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/consts/consts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
       <updated>1693044662244</updated>
       <workItem from="1693044664921" duration="102000" />
       <workItem from="1693044793598" duration="29548000" />
-      <workItem from="1693199411698" duration="6633000" />
+      <workItem from="1693199411698" duration="8817000" />
     </task>
     <task id="LOCAL-00001" summary="первый коммит, склеил бэк и фронт, проверил, что все локально работает">
       <option name="closed" value="true" />
@@ -257,7 +258,23 @@
       <option name="project" value="LOCAL" />
       <updated>1693208097374</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="случайно удалил длину соли">
+      <option name="closed" value="true" />
+      <created>1693208498003</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1693208498003</updated>
+    </task>
+    <task id="LOCAL-00027" summary="изменил импорт соли и ключа">
+      <option name="closed" value="true" />
+      <created>1693208774225</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1693208774225</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,6 +320,8 @@
     <MESSAGE value="вернул все на свои места" />
     <MESSAGE value="изменил секретный ключ и env файл" />
     <MESSAGE value="добавил дефолтное значение секретному ключу" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавил дефолтное значение секретному ключу" />
+    <MESSAGE value="случайно удалил длину соли" />
+    <MESSAGE value="изменил импорт соли и ключа" />
+    <option name="LAST_COMMIT_MESSAGE" value="изменил импорт соли и ключа" />
   </component>
 </project>
