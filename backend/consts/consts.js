@@ -1,3 +1,5 @@
+const JWT_SECRET = process.env.NODE_ENV === 'production' ? process.env.JWT_SECRET : 'my-secret-key';
+
 module.exports = {
-  SALT_ROUND: 10,
+  JWT_SECRET,
 };
