@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-IP-адрес 51.250.100.168
+IP 51.250.100.168
 
 Frontend https://pershinkirillvm.nomoredomainsicu.ru/
 
