@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a6ea86e-4bca-4c6d-af58-4584eeb89d99" name="Changes" comment="убрал лимиттер">
-      <change beforePath="$PROJECT_DIR$/backend/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app.js" afterDir="false" />
+    <list default="true" id="5a6ea86e-4bca-4c6d-af58-4584eeb89d99" name="Changes" comment="вернул ip бд">
+      <change beforePath="$PROJECT_DIR$/backend/middlewares/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/middlewares/auth.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
       <updated>1693044662244</updated>
       <workItem from="1693044664921" duration="102000" />
       <workItem from="1693044793598" duration="29548000" />
-      <workItem from="1693199411698" duration="1193000" />
+      <workItem from="1693199411698" duration="1440000" />
     </task>
     <task id="LOCAL-00001" summary="первый коммит, склеил бэк и фронт, проверил, что все локально работает">
       <option name="closed" value="true" />
@@ -192,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693200506864</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="вернул ip бд">
+      <option name="closed" value="true" />
+      <created>1693200652759</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1693200652759</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,6 +240,7 @@
     <MESSAGE value="проверка новой сборки 2" />
     <MESSAGE value="измениел ip к бд" />
     <MESSAGE value="убрал лимиттер" />
-    <option name="LAST_COMMIT_MESSAGE" value="убрал лимиттер" />
+    <MESSAGE value="вернул ip бд" />
+    <option name="LAST_COMMIT_MESSAGE" value="вернул ip бд" />
   </component>
 </project>
