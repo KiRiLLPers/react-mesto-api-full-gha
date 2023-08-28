@@ -4,9 +4,7 @@ const jwt = require('jsonwebtoken');
 
 const User = require('../models/user');
 
-const { SALT_ROUND } = require('../consts/consts');
-
-const { JWT_SECRET = 'my-secret-key' } = require('../consts/consts');
+const { SALT_ROUND, JWT_SECRET = 'my-secret-key' } = require('../consts/consts');
 
 const { ErrorNotFound } = require('../errors/errorNotFound');
 
