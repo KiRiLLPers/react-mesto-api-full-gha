@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a6ea86e-4bca-4c6d-af58-4584eeb89d99" name="Changes" comment="вернул все на свои места">
+    <list default="true" id="5a6ea86e-4bca-4c6d-af58-4584eeb89d99" name="Changes" comment="изменил секретный ключ и env файл">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/consts/consts.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/consts/consts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/controllers/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/controllers/users.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/middlewares/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/middlewares/auth.js" afterDir="false" />
     </list>
@@ -57,7 +56,7 @@
       <updated>1693044662244</updated>
       <workItem from="1693044664921" duration="102000" />
       <workItem from="1693044793598" duration="29548000" />
-      <workItem from="1693199411698" duration="6028000" />
+      <workItem from="1693199411698" duration="6195000" />
     </task>
     <task id="LOCAL-00001" summary="первый коммит, склеил бэк и фронт, проверил, что все локально работает">
       <option name="closed" value="true" />
@@ -243,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693202744589</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="изменил секретный ключ и env файл">
+      <option name="closed" value="true" />
+      <created>1693207914047</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1693207914047</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,6 +294,7 @@
     <MESSAGE value="вернул ip бд, убедился какаой должен быть" />
     <MESSAGE value="еще раз изменил ip бд" />
     <MESSAGE value="вернул все на свои места" />
-    <option name="LAST_COMMIT_MESSAGE" value="вернул все на свои места" />
+    <MESSAGE value="изменил секретный ключ и env файл" />
+    <option name="LAST_COMMIT_MESSAGE" value="изменил секретный ключ и env файл" />
   </component>
 </project>
