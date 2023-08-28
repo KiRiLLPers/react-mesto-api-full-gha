@@ -2,7 +2,7 @@ require('dotenv').config();
 
 const express = require('express');
 
-const rateLimit = require('express-rate-limit');
+// const rateLimit = require('express-rate-limit');
 
 const helmet = require('helmet');
 
@@ -26,10 +26,10 @@ const app = express();
 
 app.use(cors());
 
-const limiter = rateLimit({
-  windowMs: 15 * 60 * 1000, // за 15 минут
-  max: 100, // можно совершить максимум 100 запросов с одного IP
-});
+// const limiter = rateLimit({
+//   windowMs: 15 * 60 * 1000, // за 15 минут
+//   max: 100, // можно совершить максимум 100 запросов с одного IP
+// });
 
 app.use(helmet());
 
@@ -52,7 +52,7 @@ connect().then(() => {
 
 app.use(requestLogger);
 
-app.use(limiter);
+// app.use(limiter);
 
 app.get('/crash-test', () => {
   setTimeout(() => {
