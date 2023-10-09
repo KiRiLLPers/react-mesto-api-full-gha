@@ -6,11 +6,3 @@
 Пожалуйста, прикрепите в это описание ссылку на сайт, размещенный на Яндекс.Облаке.
 
 Адрес репозитория: https://github.com/KiRiLLPers/react-mesto-api-full-gha
-
-## Ссылки на проект
-
-IP 51.250.100.168
-
-Frontend https://pershinkirillvm.nomoredomainsicu.ru/
-
-Backend https://api.pershinkirillvm.nomoredomainsicu.ru/
